@@ -3,7 +3,7 @@ function isEven(num){
         console.log(num + " is an even number.");
     }
     else{
-        console.log(num + " is an odd number.");
+        console.log(num + " is not an even number.");
     }
 }
 isEven(36);
